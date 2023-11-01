@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/LukePeek/Snow VFX/Demo Scene/Demo Scene.unity
+    path: Assets/0_Scenes/Demo Scene.unity
     guid: afdbb0148494943818849486140082e6
   - enabled: 1
     path: Assets/0_Scenes/SampleScene.unity
